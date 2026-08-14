@@ -81,10 +81,6 @@ There are many ways to terminate a CAN bus, but the most common ways are:
 ![Brushed-Brushless-Light](/assets/FRC-Control-System/Brushed-Brushless-Light.png#only-light)
 ![Brushed-Brushless-Dark](/assets/FRC-Control-System/Brushed-Brushless-Dark.png#only-dark)
 
-Brushed motor on left, brushless motor on right
-
-
-
 #### Common FRC Motors
 ##### WCP's Kraken
 Krakens are arguably the most powerful motor in FRC. There are two types of Krakens- [X60](https://store.ctr-electronics.com/products/kraken-x60) and [X44](https://store.ctr-electronics.com/products/kraken-x44?srsltid=AfmBOopKr-9t43Uap2jITNGqDDsnkg3THzY--EEx-VA4rGnkshChu-4a) (For 60 mm and 44 mm Outer Diameter, respectively). 
